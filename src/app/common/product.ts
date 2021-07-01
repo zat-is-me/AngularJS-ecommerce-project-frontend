@@ -10,4 +10,3 @@ export class Product {
     lastUpdated!: Date;
 
 }
-
