@@ -2,7 +2,7 @@ export class Product {
     sku!: String;
     name!: String;
     description!: String;
-    unitPrice!: String;
+    unitPrice!: number;
     imageUrl!: String;
     active!: boolean;
     unitsInStock!: number;
